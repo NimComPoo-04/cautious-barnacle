@@ -2,6 +2,15 @@
 
 Simple 'the one who shall not be named' clone.
 
+## How to play
+
+* <kbd>&uarr;</kbd> Rotates piece by 90 degrees
+* <kbd>&darr;</kbd> Increase Desend speed of piece
+* <kbd>&larr;</kbd> Moves piece to the left
+* <kdb>&rarr;</kdb> Moves piece to the right
+* <kbd>&nbsp;</kbd> Pauses the game
+* <kbd>Esc</kbd>    Exits the game and also displays the score
+
 ## Building and Running Steps
 
 For Linux
