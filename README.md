@@ -21,7 +21,7 @@ gcc -Wall -Wextra -ggdb bothoristis.c -lX11
 
 For Windows (mingw64)
 ```bat
-gcc -Wall -Wextra -ggdb bothoristis.c -luser32 -lgdi32 -o game.exe
+gcc -Wall -Wextra -ggdb bothoristis.c -luser32 -lgdi32 -lkernel32 -o game.exe
 game
 ```
 
