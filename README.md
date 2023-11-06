@@ -28,3 +28,9 @@ game
 ## Screenshot
 
 ![gamplay picture](https://github.com/NimComPoo-04/cautious-barnacle/blob/main/scrnsht.png?raw=true)
+
+## Minor Hiccup
+
+The C runtime library on c or MSVCRT.dll may be missing on your computer, this will result in an error.
+If that happens you can install the Visual Studio C++ runtime and the program should work fine.
+If any problems happen don't hesitate to open an issue.
